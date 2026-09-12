@@ -1,0 +1,4 @@
+1. github repo and clone it locally
+2. add src component
+3. add data, model, reports to gitignore
+4. now add, commit, push
